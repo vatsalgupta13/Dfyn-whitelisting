@@ -24,3 +24,4 @@ Important Notes
 1) Kindly change the dir (directory) variable. Set it to wherever your csv files are kept.
 2) Datasets relevant to the code have been added to the repository itself. You can view the entire data at:
 https://docs.google.com/spreadsheets/d/11wJB4-ycHqOrA28pbaxhL-ZuXc4SFE2zdHDGrkjcjto/edit#gid=1748858189
+3) Sensitive information of the users have been omitted from both - the spreadsheet and the repository itself. The code has references to some columns which are no longer present in the data. Kindly remove all such references before running the code. You will still be able to perform Level 0 and Level 1 screening, but Level 2 screening won't be possible. 
